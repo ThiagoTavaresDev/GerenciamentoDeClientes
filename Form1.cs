@@ -6,5 +6,15 @@ namespace CadastroDeClientes
         {
             InitializeComponent();
         }
+
+        private void frm_principal_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox6_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
